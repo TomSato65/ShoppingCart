@@ -1,4 +1,4 @@
-<h1 align="center"> SHopping Cart </h1>
+<h1 align="center"> Shopping Cart </h1>
 
 <p align="center">
 Programa de Uso Livre Desenvolvido Por Virgil Pana e Cedido no Site CodeHim <br/> 
